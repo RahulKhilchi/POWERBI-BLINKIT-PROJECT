@@ -26,6 +26,9 @@ This project demonstrates a full analytics workflow from **data cleaning and pre
 
 ---
 
+<img width="2324" height="1311" alt="Dashboard 1" src="https://github.com/vishesh8603/POWERBI-BLINKIT-PROJECT/blob/main/POWERBI%20DASHBOARD.png" />
+
+
 ## ⚙️ Process
 
 ### Step 1: Data Cleaning & Preprocessing (Excel)
